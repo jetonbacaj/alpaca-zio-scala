@@ -1,6 +1,8 @@
 # alpaca-zio-scala
 A ZIO-powered Scala library to interface with alpaca.markets API
 
+Inspired by https://github.com/cynance/alpaca-scala
+
 
 This is a work in progress - stay tuned!
 
